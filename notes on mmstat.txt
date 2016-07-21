@@ -1,0 +1,62 @@
+Bei allen Quantlets die Metadata ist redundant.
+
+Es fehlen:
+
+MMSTATassociation 
+ITShist 
+MMSTATconfi_sigma 
+MMSTATconfmean
+MMSTATlinreg 
+MMSTATtime_series_1 
+MMSTAThelper_function
+
+
+1. MMSTAT confi_pi
+
+i. meta data identisch
+ii. bild(er) identisch
+iii. code läuft
+
+
+2. MMSTATconfi_two_means
+
+i. meta data identisch
+ii. bild(er) identisch
+iii. code läuft, unbedeutende änderungen in den zeilen 57 und 60
+
+
+3. MMSTATcorrelation
+
+i. meta data identisch
+ii. bild(er) identisch
+iii. code läuft
+
+4. MMSTATdistribution_exponential
+
+i. meta data identisch
+ii. bild(er) identisch
+iii. code läuft
+
+
+
+5. MMSTATdistribution_normal
+
+i. meta data identisch
+ii. bild(er) identisch
+iii. code läuft
+
+
+
+6. MMSTATvis_distr
+
+i. meta data identisch
+ii. bild fehlt
+iii. code läuft
+
+
+7. MMSTATscatterplot
+
+i. meta data identisch
+ii. bild(er) identisch
+iii. code läuft
+
