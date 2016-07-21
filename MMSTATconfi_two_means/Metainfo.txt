@@ -1,0 +1,41 @@
+
+Name of QuantLet : MMSTATconfi_two_means
+
+Published in : MMSTAT
+
+Description : 'Estimates and plots the confidence interval for the difference of two means 
+from two groups. The user can interactivaly choose the confidence level,
+the respective sample sizes, and whether to assume equal or unequal variance.
+In the lower panel, the population is shown and the interquartile range of
+the sample is indicated by boxes.
+Also, the user can choose between three data sets and set the variable and
+group variable used to compute draw the samples.'
+
+Keywords : 'plot, sampling, confidence interval, mean, population,
+visualization, data visualization, parameter, interactive, 
+t-distribution, distribution, estimation'
+
+See also : 'KI, BCS_Boxplot, BCS_Boxplot2, MVAdrafthousing 
+MMSTATtime_series_1, MMSTATlinreg, MMSTATconfmean, 
+MMSTATconfi_sigma, MMSTATassociation, MMSTAThelper_function,
+MMSTATconfi_pi, MMSTATcorrelation' 
+
+Author : Sigbert Klinke
+
+Code Editor: Yafei Xu
+
+Submitted : 
+
+Input: MMSTAThelper_function
+
+Output : Interactive shiny application
+ 
+Datafile : 
+- ALLBUS2002-GENERAL.rds, 
+- ALLBUS2004-GENERAL.rds,
+- ALLBUS2012-GENERAL.rds
+
+Example : 
+- 'Shows the confidence interval for the settings: confidence level = 0.95,
+sample size of group one = 55, sample size of group 2 = 70.
+The considered data set is ALLBUS2012-GENERAL.rds and the variable is AGE.'

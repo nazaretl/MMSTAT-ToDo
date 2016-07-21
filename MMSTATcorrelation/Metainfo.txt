@@ -1,0 +1,32 @@
+
+Name of QuantLet : MMSTATcorrelation
+
+Published in : MMSTAT
+
+Description : 'Shows either a 2D or 3D scatterplot and computes
+Pearson''s correlation and Spearman''s rank correlation for variables of
+the data sets CARS, DECATHLON and USCRIME.'
+
+Keywords : 'plot, scatterplot, correlation, data visualization, 
+visualization, estimation, parameter, interactive, uscrime, 3D'
+
+See also : 'BCS_Linreg, SFE5dim, MVAregbank, COPcorrelation1,
+MMSTATtime_series_1, MMSTATlinreg, MMSTATconfmean, 
+MMSTATconfi_sigma, MMSTATassociation, MMSTAThelper_function,
+MMSTATcorrelation'
+
+Author : Sigbert Klinke
+
+Code Editor: Yafei Xu
+
+Submitted : 
+
+Input: MMSTAThelper_function
+
+Output : Interactive shiny application
+ 
+Datafiles : CARS.rds, DECATHLON.rds, USCRIME.rds
+
+Example : 
+- 'Shows the 2-dimensional scatterplot for the variables TOTALAREA and POPULATION
+in the data set USCRIME'
