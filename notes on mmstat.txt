@@ -60,3 +60,6 @@ i. meta data identisch
 ii. bild(er) identisch
 iii. code läuft
 
+
+
+
